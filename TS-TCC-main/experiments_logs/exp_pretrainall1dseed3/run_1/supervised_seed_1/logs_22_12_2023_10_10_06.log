@@ -1,0 +1,143 @@
+=============================================
+Dataset: SEED
+Method:  TS-TCC
+Mode:    supervised
+=============================================
+Data loaded ...
+Subjet 5
+if scale True
+Training started ....
+
+Epoch : 1
+Train Loss     : 1.0816	 | 	Train Accuracy     : 0.5136
+Valid Loss     : 1.1803	 | 	Valid Accuracy     : 0.5186
+
+Epoch : 2
+Train Loss     : 0.7373	 | 	Train Accuracy     : 0.6683
+Valid Loss     : 1.0090	 | 	Valid Accuracy     : 0.5303
+
+Epoch : 3
+Train Loss     : 0.5903	 | 	Train Accuracy     : 0.7514
+Valid Loss     : 1.1487	 | 	Valid Accuracy     : 0.5767
+
+Epoch : 4
+Train Loss     : 0.5017	 | 	Train Accuracy     : 0.7858
+Valid Loss     : 1.3563	 | 	Valid Accuracy     : 0.6021
+
+Epoch : 5
+Train Loss     : 0.4736	 | 	Train Accuracy     : 0.8042
+Valid Loss     : 1.4031	 | 	Valid Accuracy     : 0.5962
+
+Epoch : 6
+Train Loss     : 0.4498	 | 	Train Accuracy     : 0.8173
+Valid Loss     : 1.4802	 | 	Valid Accuracy     : 0.5659
+
+Epoch : 7
+Train Loss     : 0.4088	 | 	Train Accuracy     : 0.8400
+Valid Loss     : 1.3917	 | 	Valid Accuracy     : 0.5742
+
+Epoch : 8
+Train Loss     : 0.3806	 | 	Train Accuracy     : 0.8524
+Valid Loss     : 1.7697	 | 	Valid Accuracy     : 0.5503
+
+Epoch : 9
+Train Loss     : 0.3991	 | 	Train Accuracy     : 0.8441
+Valid Loss     : 1.6853	 | 	Valid Accuracy     : 0.5654
+
+Epoch : 10
+Train Loss     : 0.3569	 | 	Train Accuracy     : 0.8606
+Valid Loss     : 1.6682	 | 	Valid Accuracy     : 0.5581
+
+Epoch : 11
+Train Loss     : 0.3184	 | 	Train Accuracy     : 0.8777
+Valid Loss     : 1.7320	 | 	Valid Accuracy     : 0.5698
+
+Epoch : 12
+Train Loss     : 0.3027	 | 	Train Accuracy     : 0.8850
+Valid Loss     : 1.8431	 | 	Valid Accuracy     : 0.5728
+
+Epoch : 13
+Train Loss     : 0.2809	 | 	Train Accuracy     : 0.8944
+Valid Loss     : 1.8974	 | 	Valid Accuracy     : 0.5674
+
+Epoch : 14
+Train Loss     : 0.2431	 | 	Train Accuracy     : 0.9151
+Valid Loss     : 1.8139	 | 	Valid Accuracy     : 0.5708
+
+Epoch : 15
+Train Loss     : 0.2262	 | 	Train Accuracy     : 0.9297
+Valid Loss     : 1.8448	 | 	Valid Accuracy     : 0.5684
+
+Epoch : 16
+Train Loss     : 0.2220	 | 	Train Accuracy     : 0.9268
+Valid Loss     : 1.8431	 | 	Valid Accuracy     : 0.5659
+
+Epoch : 17
+Train Loss     : 0.2142	 | 	Train Accuracy     : 0.9322
+Valid Loss     : 1.8606	 | 	Valid Accuracy     : 0.5513
+
+Epoch : 18
+Train Loss     : 0.2153	 | 	Train Accuracy     : 0.9321
+Valid Loss     : 1.8806	 | 	Valid Accuracy     : 0.5669
+
+Epoch : 19
+Train Loss     : 0.2091	 | 	Train Accuracy     : 0.9322
+Valid Loss     : 1.8140	 | 	Valid Accuracy     : 0.5635
+
+Epoch : 20
+Train Loss     : 0.2015	 | 	Train Accuracy     : 0.9392
+Valid Loss     : 1.9290	 | 	Valid Accuracy     : 0.5605
+
+Epoch : 21
+Train Loss     : 0.1984	 | 	Train Accuracy     : 0.9389
+Valid Loss     : 1.8588	 | 	Valid Accuracy     : 0.5557
+
+Epoch : 22
+Train Loss     : 0.1987	 | 	Train Accuracy     : 0.9363
+Valid Loss     : 1.9062	 | 	Valid Accuracy     : 0.5645
+
+Epoch : 23
+Train Loss     : 0.1968	 | 	Train Accuracy     : 0.9407
+Valid Loss     : 1.8700	 | 	Valid Accuracy     : 0.5562
+
+Epoch : 24
+Train Loss     : 0.1854	 | 	Train Accuracy     : 0.9480
+Valid Loss     : 1.9221	 | 	Valid Accuracy     : 0.5601
+
+Epoch : 25
+Train Loss     : 0.1884	 | 	Train Accuracy     : 0.9399
+Valid Loss     : 1.9065	 | 	Valid Accuracy     : 0.5591
+
+Epoch : 26
+Train Loss     : 0.1793	 | 	Train Accuracy     : 0.9472
+Valid Loss     : 1.9059	 | 	Valid Accuracy     : 0.5522
+
+Epoch : 27
+Train Loss     : 0.1786	 | 	Train Accuracy     : 0.9511
+Valid Loss     : 1.9191	 | 	Valid Accuracy     : 0.5527
+
+Epoch : 28
+Train Loss     : 0.1837	 | 	Train Accuracy     : 0.9465
+Valid Loss     : 1.9483	 | 	Valid Accuracy     : 0.5547
+
+Epoch : 29
+Train Loss     : 0.1782	 | 	Train Accuracy     : 0.9487
+Valid Loss     : 1.9367	 | 	Valid Accuracy     : 0.5552
+
+Epoch : 30
+Train Loss     : 0.1743	 | 	Train Accuracy     : 0.9518
+Valid Loss     : 1.9067	 | 	Valid Accuracy     : 0.5562
+
+Evaluate on the Test set:
+Test loss      :1.0401	 | Test Accuracy      : 0.7490 | Test AUPRC      : 0.5324
+tensor([0.8927, 0.7735, 0.8673, 0.7984, 0.8766, 0.9018, 0.9246, 0.8818, 0.8493,
+        0.7532, 0.7368, 0.8413, 0.8124, 0.9009, 0.7928, 0.9497, 0.9311, 0.7874,
+        0.7636, 0.7515, 0.8081, 0.8630, 0.8856, 1.0158, 0.7855, 0.8057, 0.8158,
+        0.8114, 0.8418, 0.8813, 0.9226, 0.9832, 0.9748, 0.8169, 0.8975, 0.8030,
+        0.7921, 0.8621, 0.7535, 0.8995, 0.9148, 0.9012, 0.8907, 0.7825, 0.8015,
+        0.7613, 0.7819, 0.7897, 0.8353, 0.9187, 0.8012, 0.7848, 0.8282, 0.7706,
+        0.7579, 0.7633, 0.9353, 0.7554, 0.7664, 0.9416, 0.8168, 0.8150],
+       device='cuda:0', grad_fn=<SqueezeBackward1>)
+
+################## Training is Done! #########################
+Training time is : 0:01:39.580558
